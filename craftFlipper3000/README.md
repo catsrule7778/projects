@@ -1,1 +1,4 @@
-Craft Flipper 3000
+# Craft Flipper 3000 (Hypixel Skyblock Craft Flipper - Bazaar Only)
+Craft Flipper 3000 helps me choose investments and do craft flips in Hypixel Skyblock. Each item in Hypixel Skyblock has a certain crafting recipe, with each item used to craft it having a specific cost. What Craft Flipper 3000 does is fetches the cost of each item from a json file, and then gets the actual cost of the item from the Hypixel API's bazaar data. It then organizes each item based on the difference in costs, or the profit if you were to craft an item and then sell it. The least profitable items with negative profit are potential investments, as future updates could make them go up in price to what their individual parts cost. The most profitable items can be crafted and sold to the bazaar for easy money.
+
+Using this program, I have decided to invest in Omega Enchanted Eggs, as they have good margins, and the price to cost them is much more than the cost to currently buy them. I will see if this investment pays off in a future update.
